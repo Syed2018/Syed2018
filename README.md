@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syed2018
-- 👀 I’m interested in learing Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m developing apps using AI tools
+- 🌱 I am a Growth Marketer, using best of brand and performance marketing to uplift Brand, Sales, Leads for clients
 - 💞️ I’m looking to collaborate on Data use in improving user experience
 - 📫 How to reach me: ozee05@gmail.com 
 
